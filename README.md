@@ -2,9 +2,9 @@
 
 I'm Kez
 
-I make cheats and stuff when I'm bored for some random ass game
+I make stuff when I'm bored for some random ass game
 
-I'm alr at C++, C#, Rust and TypeScript
+I'm alr at C++, C#, Rust, Typescript and swift
   
 <!---
 KezzaJNR/KezzaJNR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
